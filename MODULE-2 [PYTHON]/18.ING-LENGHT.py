@@ -14,3 +14,5 @@ user_input = input("Enter a string: ")
 modified_string = modify_string(user_input)
 
 print("Modified string:", modified_string)
+    
+                     

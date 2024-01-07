@@ -1,7 +1,6 @@
 # Import By deafult Library
 from collections import Counter
 
-# Example usage
 user_input = input("Enter a string: ")
 
 # Use Counter to count character frequencies
