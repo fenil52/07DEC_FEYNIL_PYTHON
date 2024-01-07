@@ -1,5 +1,4 @@
-# Import By deafult Library
-from collections import Counter
+# from collections import Counter
 
 user_input = input("Enter a string: ")
 
